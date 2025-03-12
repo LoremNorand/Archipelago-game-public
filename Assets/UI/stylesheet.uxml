@@ -1,0 +1,4 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/stylesheet.uss?fileID=7433441132597879392&amp;guid=3acc453e2169bee418c9b3d0a705ecaf&amp;type=3#stylesheet" />
+    <ui:VisualElement name="Panel" style="flex-grow: 1; flex-basis: auto; max-width: 1920px; max-height: 1080px; min-width: 1280px; min-height: 720px;" />
+</ui:UXML>
